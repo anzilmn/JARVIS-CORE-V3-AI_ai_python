@@ -2,6 +2,8 @@
 
 what my ai can do
 
+
+Description-----------------------------------------Example Command
 1=Opens any Windows app or Start Menu shortcut.="Open XAMPP Control Panel"
 
 
