@@ -1,0 +1,5 @@
+use python 3.11.9 version
+
+py -3.11 -m venv venv
+activate it
+python main.py
