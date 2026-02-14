@@ -13,7 +13,7 @@ Description-----------------------------------------Example Command
 2=Sends instant messages via WhatsApp Web.="Message 9876543210 saying Yo vro"  or  "Sent whatsapp Message to 9876543210 saying "Yo vro"  "
 
 
-3=Searches and plays any song/video instantly.="Play Interstellar Theme"
+3=Searches and plays any utube song/video instantly.="Play Interstellar Theme"  or "play real madrid vs barcelona"
 
 
 4=Opens sites or performs Google searches.="Search for best Python libraries" or  "open chrome and search ....." or just type "youtube"
