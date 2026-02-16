@@ -23,4 +23,4 @@ Description-----------------------------------------Example Command
 
 
 
-6=The voice button and text bar work exactly the same.==(Enter or Click Mic)
+6=The voice button and text bar work exactly the same.==(Enter or Click Mic)......................
